@@ -1,0 +1,2 @@
+0 defective
+1 ok
